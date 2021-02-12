@@ -1,6 +1,3 @@
-# coding: utf-8
-#!/usr/bin/env python
-
 import random
 from random import *
 from random import randrange, choice
@@ -34,7 +31,7 @@ for item in progressbar:
 import base64, pyperclip
 
 
-os.system("title Slum")
+os.system("title Slum ID Tool")
 os.system("cls")
 print(f"""
 {Fore.RED}
